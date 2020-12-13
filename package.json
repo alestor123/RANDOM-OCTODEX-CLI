@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code for logging random octodex in terminal",
   "main": "App.js",
+  "bin": {
+    "random-octodex": "App.js"
+  },
   "dependencies": {
     "got": "^11.8.1",
     "terminal-image": "^1.2.1"
