@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var terminalImage = require('terminal-image'),
 got = require('got');
 
